@@ -1,4 +1,4 @@
-# E-Ticaret Müşteri Analizi ve Segmentasyonu
+# E-Ticaret Müşteri Analizi ve Segmentasyonu / E-Commerce Customer Analysis and Segmentation
 
 
 
